@@ -1,8 +1,4 @@
-# tareas-don-chanchito
- tareas para el chanchito
-
-
- PROBLEMA:      Determinar si un alumno  
+# PROBLEMA:      Determinar si un alumno  
 aprueba o reprueba
 sabiendo que aprobara si su promedio
 de tres calificaciones es mayor o igual a 70
@@ -47,4 +43,7 @@ Divisor: total (contar) cantidad de calificaciones involucradas.
 
 Formula:       promedio = (calificacion1 + calificación2 + calificacion3) / 3
 
+
+# tareas-don-chanchito
+    tareas para el chanchito
 
