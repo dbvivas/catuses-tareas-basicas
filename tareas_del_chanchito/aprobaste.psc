@@ -1,4 +1,4 @@
-Proceso aprobaste_hijo_de_tu_madre
+Proceso aprobaste
 	//Determinar si un alumno 
 	//aprueba o reprueba
 	//sabiendo que aprobara si su promedio
