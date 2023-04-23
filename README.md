@@ -44,6 +44,6 @@ Divisor: total (contar) cantidad de calificaciones involucradas.
 Formula:       promedio = (calificacion1 + calificación2 + calificacion3) / 3
 
 
-# tareas-don-chanchito
-    tareas para el chanchito
+# catuses-tareas-basicas
+    catuses tareas basicas
 
